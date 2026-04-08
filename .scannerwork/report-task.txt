@@ -1,0 +1,7 @@
+organization=alejomon
+projectKey=DavidAlejo24_Wakka-Tattoes
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.84853
+dashboardUrl=https://sonarcloud.io/dashboard?id=DavidAlejo24_Wakka-Tattoes
+ceTaskId=AZ1p8QcF7jP7JsYHwhYN
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ1p8QcF7jP7JsYHwhYN
